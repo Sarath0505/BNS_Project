@@ -1,0 +1,32 @@
+{
+  "judge_model": "qwen3.5:4b",
+  "generator_model": "qwen3.5:4b",
+  "evaluated": 3,
+  "failed": 0,
+  "metrics": {
+    "groundedness": {
+      "mean": 0.889,
+      "count": 3
+    },
+    "answer_relevance": {
+      "mean": 1.0,
+      "count": 3
+    },
+    "context_precision": {
+      "mean": 1.0,
+      "count": 3
+    },
+    "completeness": {
+      "mean": 1.0,
+      "count": 3
+    },
+    "section_recall": {
+      "mean": 1.0,
+      "count": 3
+    },
+    "abstention_accuracy": {
+      "mean": 1.0,
+      "count": 3
+    }
+  }
+}

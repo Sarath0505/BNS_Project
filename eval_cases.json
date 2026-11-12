@@ -1,0 +1,124 @@
+[
+  {
+    "id": "theft_punishment",
+    "question": "What is the punishment for theft under the BNS?",
+    "answerable": true,
+    "expected_sections": [
+      303
+    ],
+    "required_facts": [
+      "Ordinary theft under Section 303(2) carries imprisonment up to three years, or fine, or both.",
+      "For a second or subsequent conviction under Section 303, rigorous imprisonment is one to five years and a fine.",
+      "For a qualifying first conviction where the stolen property's value is less than five thousand rupees, restoration of property or value leads to community service under the stated proviso."
+    ]
+  },
+  {
+    "id": "stalking_exceptions",
+    "question": "What exceptions apply to stalking under BNS Section 78?",
+    "answerable": true,
+    "expected_sections": [
+      78
+    ],
+    "required_facts": [
+      "Conduct pursued for preventing or detecting crime by someone entrusted with that responsibility by the State is an exception under the stated conditions.",
+      "Conduct pursued under a law or to comply with a condition or requirement imposed under law is an exception.",
+      "Conduct that was reasonable and justified in the particular circumstances is an exception."
+    ]
+  },
+  {
+    "id": "grievous_general",
+    "question": "What is the general punishment for voluntarily causing grievous hurt?",
+    "answerable": true,
+    "expected_sections": [
+      117
+    ],
+    "required_facts": [
+      "Under Section 117(2), ordinary voluntarily causing grievous hurt is punishable by imprisonment of either description up to seven years.",
+      "Section 117(2) also requires liability to a fine.",
+      "The general provision is stated subject to the exception involving Section 122(2)."
+    ]
+  },
+  {
+    "id": "grievous_comparison",
+    "question": "Compare the punishment for ordinary grievous hurt, grievous hurt to extort a confession, and grievous hurt involving a public servant.",
+    "answerable": true,
+    "expected_sections": [
+      117,
+      120,
+      121
+    ],
+    "required_facts": [
+      "Ordinary voluntarily causing grievous hurt under Section 117(2) carries imprisonment up to seven years and a fine, subject to the stated exception.",
+      "Grievous hurt to extort confession for a purpose in Section 120(1) carries imprisonment up to ten years and a fine under Section 120(2).",
+      "Grievous hurt involving a public servant in the specified duty-related circumstances carries imprisonment of one to ten years and a fine under Section 121(2)."
+    ]
+  },
+  {
+    "id": "theft_robbery_dacoity",
+    "question": "Compare theft, robbery, and dacoity, including their legal definitions and punishments.",
+    "answerable": true,
+    "expected_sections": [
+      303,
+      309,
+      310
+    ],
+    "required_facts": [
+      "Theft under Section 303 involves moving another person's movable property dishonestly without consent, and ordinary punishment extends to three years, fine or both.",
+      "Robbery under Section 309 involves theft or extortion under the specified immediate-violence, restraint or fear conditions.",
+      "The general robbery punishment under Section 309(4) extends to ten years of rigorous imprisonment and a fine, with a higher possible term for highway robbery at night.",
+      "Dacoity under Section 310 requires at least five people in the specified combined robbery, attempt or aid circumstances.",
+      "Dacoity under Section 310(2) carries imprisonment for life or up to ten years of rigorous imprisonment and a fine."
+    ]
+  },
+  {
+    "id": "kidnapping_general",
+    "question": "What is the punishment for kidnapping under BNS Section 137?",
+    "answerable": true,
+    "expected_sections": [
+      137
+    ],
+    "required_facts": [
+      "Section 137 provides punishment for kidnapping from India or lawful guardianship.",
+      "The imprisonment may extend to seven years.",
+      "The offender is also liable to a fine."
+    ]
+  },
+  {
+    "id": "theft_sentencing_conditions",
+    "question": "What are the punishments for theft under BNS Section 303 for first-time and repeat offenders, and under what conditions can community service be imposed?",
+    "answerable": true,
+    "expected_sections": [
+      303
+    ],
+    "required_facts": [
+      "Under Section 303(2), ordinary theft is punishable with imprisonment of either description for up to three years, or a fine, or both.",
+      "For a second or subsequent conviction under Section 303, the punishment is rigorous imprisonment for at least one year and up to five years, along with a fine.",
+      "The community-service proviso requires the value of the stolen property to be less than five thousand rupees.",
+      "The community-service proviso applies to a person convicted for the first time.",
+      "The person must return the value of the stolen property or restore the stolen property for the community-service proviso to apply."
+    ]
+  },
+  {
+    "id": "nonexistent_section",
+    "question": "What is the punishment under BNS Section 999?",
+    "answerable": false,
+    "expected_sections": [],
+    "required_facts": []
+  },
+  {
+    "id": "robbery_dacoity_comparison",
+    "question": "What is the difference between robbery and dacoity under the BNS, and how do their punishments differ?",
+    "answerable": true,
+    "expected_sections": [
+      309,
+      310
+    ],
+    "required_facts": [
+      "Under Section 309, robbery involves theft or extortion accompanied by the specified acts or threats of immediate death, hurt, or wrongful restraint, subject to the statutory conditions.",
+      "Under Section 310(1), dacoity involves five or more persons conjointly committing or attempting robbery, including persons present and aiding who count toward the group.",
+      "Under Section 309(4), ordinary robbery is punishable with rigorous imprisonment for up to ten years and a fine.",
+      "Under Section 310(2), dacoity is punishable with imprisonment for life or rigorous imprisonment for up to ten years, along with a fine.",
+      "The defining distinction is that dacoity requires at least five participating or aiding persons, whereas robbery has no five-person requirement."
+    ]
+  }
+]

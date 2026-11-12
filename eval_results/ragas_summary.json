@@ -1,0 +1,39 @@
+{
+  "processed": 9,
+  "metrics": {
+    "faithfulness": {
+      "mean": 0.7964,
+      "count": 7
+    },
+    "answer_relevancy": {
+      "mean": 0.7691,
+      "count": 8
+    },
+    "context_precision": {
+      "mean": 0.625,
+      "count": 8
+    },
+    "context_recall": {
+      "mean": 1.0,
+      "count": 8
+    },
+    "answer_completeness_recall": {
+      "mean": 0.75,
+      "count": 8
+    },
+    "section_recall": {
+      "mean": 1.0,
+      "count": 8
+    }
+  },
+  "cases_with_errors": 1,
+  "elapsed_seconds": 7574.03,
+  "judge_model": "qwen3.5:4b",
+  "metrics_requested": [
+    "faithfulness",
+    "answer_relevancy",
+    "context_precision",
+    "context_recall",
+    "answer_completeness_recall"
+  ]
+}
